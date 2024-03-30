@@ -1,0 +1,154 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+
+}
+.title-container{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    position: relative;
+    width: 60px;
+    height: 58px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.container{
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1{
+    position: relative;
+    display: inline-block;
+    padding-left: 30px;
+    color: #333;
+    vertical-align: middle;
+
+}
+input[type="text"]{
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+button{
+    padding: 10px 20px;
+    background-color: #008cba;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.todoflaticon2{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(todo\ flaticon2.png) no-repeat;
+    background-size: contain;
+
+}
+li{
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.delete-btn {
+    background-color: hsl(9, 61%, 77%); 
+    color: white; 
+    border: none; 
+    padding: 5px 5px;
+    border-radius: 5px;
+    cursor: pointer; 
+    
+    
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="text"] {
+    width: calc(100% - 60px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .task input[type="checkbox"] {
+    margin-right: 10px;
+  } */
